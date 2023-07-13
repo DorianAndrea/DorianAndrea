@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DorianAndrea
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning React, Node, Python 
 - 💞️ I’m looking to collaborate on New Jobs
 - 📫 How to reach me adonosoaster@gmail.com
 
